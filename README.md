@@ -1,2 +1,0 @@
-# zidio-prj
-zidio prj 
