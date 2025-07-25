@@ -1,0 +1,6 @@
+https://github.com/aruna-2201/aruna-2201.git
+
+git config --global user.email "aruna.official221@gmail.com"
+  git config --global user.name "aruna-2201"
+
+git remote add origin https://github.com/aruna-2201/aruna-2201.git
